@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The rogue discovered, or a congratulatory verse upon a book newly publisht (a piece much desired, and long expected) called the English rogue, a witty extravagant. Sold by Francis Kirkman, at the Princes Arms in Chancery Lane.</title>
+         </titleStmt>
+         <extent>Approx. 4KB of XML-encoded text transcribed from 1 1-bit group-IV TIFF page image.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B29054</idno><idno type="EEBO-CITATION">99887023</idno>
+  <idno type="VID">200139</idno>
+  <idno type="EEBO-PROQUEST">2240895264</idno>
+  
+            <idno type="STC">Wing R1864C</idno>
+            <idno type="STC">Interim Tract Supplement Guide Harl.5919[337]</idno>
+            <idno type="STC">ESTC R226965</idno>
+            <idno type="PROQUEST">ocm99887023</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99887023e"/>
+            <note>(EEBO-TCP ; phase 2, no. B29054)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 200139)</note>
+            <note>Images scanned from microfilm: (Early English books; Tract supplement ; E1:1[245c])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The rogue discovered, or a congratulatory verse upon a book newly publisht (a piece much desired, and long expected) called the English rogue, a witty extravagant. Sold by Francis Kirkman, at the Princes Arms in Chancery Lane.</title>
+               </titleStmt>
+               <extent>1 sheet ([1] p.).   </extent>
+               <publicationStmt>
+                  <publisher>[Francis Kirkman],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Printed in the year, 1666.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A reply to: Head, Richard.  English rogue.</note>
+                  <note>Verse - "Friend, had I but seen your book in manu-script,".</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Head, Richard, 1637?-1686?. --  English rogue --  Poetry --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:200139:1"/>
+            <head>THE ROGUE DISCOVERED, OR A Congratulatory Verse upon a Book newly publisht (a Piece much desired, and long expected) called the <hi>English Rogue,</hi> a <hi>Witty Extravagant.</hi>
+            </head>
+            <head type="publishers_advertisement">Sold by <hi>Francis Kirkman,</hi> at the Princes Arms in <hi>Chancery Lane.</hi>
+            </head>
+            <opener>
+               <salute>Friend,</salute>
+            </opener>
+            <lg>
+               <l>HAd I but seen your Book in Manu-script,</l>
+               <l>These lines had Prologuiz'd your pregnant Wit.</l>
+               <l>Your <hi>Rogue</hi> is <hi>Prest;</hi> yet suffer (Sir) that I</l>
+               <l>Give your <hi>deserving Rogue</hi> an Elogy.</l>
+               <l>Nor can I pass the <hi>Author,</hi> whose just fame</l>
+               <l>Will live 'ith' <hi>English Rogue,</hi> without a name.</l>
+               <l>Were it prefixt, <hi>Wit</hi> had obtain'd its end;</l>
+               <l>For but to speak thy Name, is to commend.</l>
+               <l>Thy Book I red, and drew <hi>conceptions</hi> thence,</l>
+               <l>
+                  <hi>Adam</hi> ne're knew in's <hi>single innocence.</hi>
+               </l>
+               <l>With knowledge travail man doth recompence,</l>
+               <l>Although but seldom, yet with vast expence.</l>
+               <l>But in thy <hi>Rogue,</hi> our purchase will appear</l>
+               <l>Our <hi>cheap</hi> experience, though it cost thee <hi>dear.</hi>
+               </l>
+               <l>There may we travil safe, and in a trice</l>
+               <l>Surround the <hi>Globe</hi> of <hi>Cheats,</hi> a <hi>World</hi> of <hi>Vice.</hi>
+               </l>
+               <l>Thy <hi>Rogue,</hi> when in his non-age did commit</l>
+               <l>Things that did flow from quintessence of Wit.</l>
+               <l>A <hi>witty Rogue,</hi> and a notorious <hi>Thief,</hi>
+               </l>
+               <l>Whose life hereafter may surpass belief.</l>
+               <l>From him we know, how Boys mispend their times</l>
+               <l>In Waggeries, the <hi>blossoms</hi> of black crimes.</l>
+               <l>If not prevented as they grow in age,</l>
+               <l>Those Crimes (untimely) make them quit the Stage</l>
+               <l>O'th' World. No sooner <hi>entrance</hi> have they made,</l>
+               <l>But Law doth put an <hi>exit</hi> to their Trade.</l>
+               <l>Masters may here, as in a mirror, see</l>
+               <l>Th' Apprentice-party-colour'd Rogery.</l>
+               <l>Both how he barters Ware, and monies snips,</l>
+               <l>To be a purchaser of <hi>wanton Lips.</hi>
+               </l>
+               <l>To drink and Whore so long, till in the <hi>close,</hi>
+               </l>
+               <l>By <hi>senting Bawdy-houses</hi> loose his <hi>Nose.</hi>
+               </l>
+               <l>These common tricks hence forth won't do the feat</l>
+               <l>They must find out some newer way to cheat.</l>
+               <l>For thou hast glanc'd such light, the Master can</l>
+               <l>With ease, if fraudulent, detect his man.</l>
+               <l>Maids hence will wary be, and will not trust</l>
+               <l>
+                  <hi>Guilded pretences,</hi> which do <hi>Pimp</hi> for <hi>Lust.</hi>
+               </l>
+               <l>No longer will the Trav'ler ride in fear,</l>
+               <l>Since thou hast evidently made appear</l>
+               <l>What <hi>Robbers</hi> are; who oftner change their shapes,</l>
+               <l>Then <hi>Proteus</hi> did, or half a score <hi>French Apes.</hi>
+               </l>
+               <l>All their <hi>disguises</hi> are <hi>unmaskt</hi> by <hi>thee,</hi>
+               </l>
+               <l>That we may shun the <hi>Rogue,</hi> the <hi>Rogue</hi> the Tree.</l>
+               <l>In all known cheats, thy wit is copious found,</l>
+               <l>As VVine in Conduits, when a <hi>King</hi> is Crown'd.</l>
+               <l>And this we know in every Art or Trade,</l>
+               <l>Ambition some Competitors has made.</l>
+               <l>But <hi>Thou</hi> hast none. Hence I shall think, that when</l>
+               <l>Some other piece has by some other Pen</l>
+               <l>Been quaintly drawn, 'twill be of most the vogue,</l>
+               <l>This is the Author's of the <hi>English Rogue.</hi>
+               </l>
+               <l>For which good work hereafter Ages shall,</l>
+               <l>Give th' unknown Author thanks perpetual.</l>
+            </lg>
+            <epigraph>
+               <q xml:lang="lat">Id peragas vita, quod velles morte peractum.</q>
+            </epigraph>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed in the Year, 1666.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
